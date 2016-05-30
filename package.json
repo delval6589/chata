@@ -1,0 +1,23 @@
+{
+  "name": "chata",
+  "version": "0.0.1",
+  "description": "\u0016Chat JS - Learning By Doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delval6589/chata.git"
+  },
+  "keywords": [
+    "js",
+    "chat\u001b[D\u001b[C\u001b[C"
+  ],
+  "author": "delval6589",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delval6589/chata/issues"
+  },
+  "homepage": "https://github.com/delval6589/chata#readme"
+}
